@@ -128,3 +128,92 @@
   text-align: center;
   cursor: pointer;
 }
+/* -------web development section---- */
+
+.web-dev {
+    width: 1140px;
+    height: 1395px;
+    margin: 0 auto;
+    margin-top: 80px;
+    padding: 80px 97px 80px 97px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+  }
+  
+  .web-text {
+    width: 852px;
+    height: 115px;
+    margin: 0 auto;
+    margin-bottom: 24px;
+  }
+  
+  .web-text h1 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  .web-text p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+  }
+  
+  .web-dev-container {
+    width: 946px;
+    height: 1072px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .web-dev-content-1 {
+    display: flex;
+    justify-content: space-between;
+  }
+  .content-1-div-1 {
+    height: 220px;
+    width: 477px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .web-dev-content-2 {
+    display: flex;
+    justify-content: left;
+  }
+  .content-1-div-2 {
+    width: 259px;
+    height: 217px;
+  }
+  
+  .content-1-div-2 img {
+    height: 100%;
+    width: 100%;
+  }
+  .content-1-div-2 {
+    height: 240px;
+    width: 240px;
+    padding-left: 16.8px;
+    padding-bottom: 31.15px;
+  }
+  
+  .content-2-div-2 {
+    height: 219px;
+    width: 477px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 32px;
+  }
+  
